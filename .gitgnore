@@ -1,2 +1,2 @@
-*.csv
-*.ods
+# ignore the data folder and its contents
+/data/*.csv
